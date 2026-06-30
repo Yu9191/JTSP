@@ -28,6 +28,7 @@ https://raw.githubusercontent.com/Yu9191/JTSP/refs/heads/main/modules/katovideo.
 - VIP 解锁、会员有效期 / 昵称
 - 去广告（开屏 / banner / 弹窗 / 浮窗 / 游戏入口 / 抽奖）
 - 付费 / 试看视频解锁，试看流→完整流
+- 漫画（anime）付费章节解锁：解锁付费章节、去价格标签，付费未购章节自动回填图片内容（用持久化键 `jtsp_anime_cache` 缓存章节图片）
 - 只需选日志级别，其余（去广告 / 解锁VIP / 解锁视频 / 去游戏）默认开启
 
 </details>
